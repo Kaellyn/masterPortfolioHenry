@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "login": "2020-A-Python-GR1",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/65957078?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "2020-A-Web-GR2",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/66092848?v=4",
+      "__typename": "Organization"
+    },
+    {
+      "login": "2020-A-GR2-Aplicaciones-Moviles",
+      "avatarUrl": "https://avatars.githubusercontent.com/u/67041320?v=4",
+      "__typename": "Organization"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "closed": 0,
+  "data": [
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTg0MjU5ODg0",
+      "title": "Cambio menos",
+      "url": "https://github.com/Kaellyn/IngelsiFacebookAds/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29242754?u=23e639cb585bd08f33576231ac1d133eb910386a&v=4",
+        "url": "https://github.com/Kaellyn",
+        "login": "Kaellyn"
+      },
+      "createdAt": "2021-03-03T20:58:55Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 21,
+      "baseRepository": {
+        "name": "IngelsiFacebookAds",
+        "url": "https://github.com/Kaellyn/IngelsiFacebookAds",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/29242754?u=23e639cb585bd08f33576231ac1d133eb910386a&v=4",
+          "login": "Kaellyn",
+          "url": "https://github.com/Kaellyn"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTgzNTI3Mjkz",
+      "title": "Actualizacion",
+      "url": "https://github.com/Kaellyn/IngelsiFacebookAds/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29242754?u=23e639cb585bd08f33576231ac1d133eb910386a&v=4",
+        "url": "https://github.com/Kaellyn",
+        "login": "Kaellyn"
+      },
+      "createdAt": "2021-03-03T03:12:00Z",
+      "number": 1,
+      "changedFiles": 4,
+      "additions": 9100,
+      "deletions": 9,
+      "baseRepository": {
+        "name": "IngelsiFacebookAds",
+        "url": "https://github.com/Kaellyn/IngelsiFacebookAds",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/29242754?u=23e639cb585bd08f33576231ac1d133eb910386a&v=4",
+          "login": "Kaellyn",
+          "url": "https://github.com/Kaellyn"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MTkyMjc2ODcy",
+      "title": "Create FuncionesPr.php",
+      "url": "https://github.com/daniel0113tg/integral/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39750552?u=37cddfd7e5a2ce4ecc778db1069d19b6fe8ad336&v=4",
+        "url": "https://github.com/daniel0113tg",
+        "login": "daniel0113tg"
+      },
+      "createdAt": "2018-06-04T00:40:39Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 38,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "integral",
+        "url": "https://github.com/daniel0113tg/integral",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39750552?u=37cddfd7e5a2ce4ecc778db1069d19b6fe8ad336&v=4",
+          "login": "daniel0113tg",
+          "url": "https://github.com/daniel0113tg"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0MTkyMjc2ODEx",
+      "title": "Actualizacion de cuadraturagaussiana.php con W",
+      "url": "https://github.com/daniel0113tg/integral/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39750552?u=37cddfd7e5a2ce4ecc778db1069d19b6fe8ad336&v=4",
+        "url": "https://github.com/daniel0113tg",
+        "login": "daniel0113tg"
+      },
+      "createdAt": "2018-06-04T00:39:13Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 35,
+      "deletions": 25,
+      "baseRepository": {
+        "name": "integral",
+        "url": "https://github.com/daniel0113tg/integral",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39750552?u=37cddfd7e5a2ce4ecc778db1069d19b6fe8ad336&v=4",
+          "login": "daniel0113tg",
+          "url": "https://github.com/daniel0113tg"
+        }
+      }
+    }
+  ],
+  "merged": 4,
+  "open": 0,
+  "totalCount": 4
+}
