@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c7ec043a.chunk.css",
-    "main.js": "/static/js/main.604db305.chunk.js",
-    "main.js.map": "/static/js/main.604db305.chunk.js.map",
+    "main.js": "/static/js/main.4d2c0d16.chunk.js",
+    "main.js.map": "/static/js/main.4d2c0d16.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5795b4e4.js",
     "runtime-main.js.map": "/static/js/runtime-main.5795b4e4.js.map",
-    "static/js/2.29e934aa.chunk.js": "/static/js/2.29e934aa.chunk.js",
-    "static/js/2.29e934aa.chunk.js.map": "/static/js/2.29e934aa.chunk.js.map",
+    "static/js/2.bad18ae2.chunk.js": "/static/js/2.bad18ae2.chunk.js",
+    "static/js/2.bad18ae2.chunk.js.map": "/static/js/2.bad18ae2.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c19befd2072a599a963d5eca95df11a3.js": "/precache-manifest.c19befd2072a599a963d5eca95df11a3.js",
+    "precache-manifest.3cd867c18622533d3ec05f9d5e202df6.js": "/precache-manifest.3cd867c18622533d3ec05f9d5e202df6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.c7ec043a.chunk.css.map": "/static/css/main.c7ec043a.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/EPN_logo_big.png": "/static/media/EPN_logo_big.c90675eb.png",
+    "static/media/JISIC-2019-banner-tipo-epn2-FINAL.jpg": "/static/media/JISIC-2019-banner-tipo-epn2-FINAL.159d53dd.jpg",
     "static/media/address_image.svg": "/static/media/address_image.3b021f8f.svg",
     "static/media/animated_ashutosh.png": "/static/media/animated_ashutosh.553e306d.png",
     "static/media/animated_logo.svg": "/static/media/animated_logo.52e0714e.svg",
@@ -32,6 +34,8 @@
     "static/media/github_logo.png": "/static/media/github_logo.e64de169.png",
     "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
     "static/media/googleAssistant.svg": "/static/media/googleAssistant.c24ba791.svg",
+    "static/media/hackerrank_logo.png": "/static/media/hackerrank_logo.7b6f6587.png",
+    "static/media/henry_profile.png": "/static/media/henry_profile.a7a843c4.png",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.6d325fec.png",
     "static/media/iiitk_logo.png": "/static/media/iiitk_logo.4ba396c9.png",
     "static/media/iiitk_logo2.png": "/static/media/iiitk_logo2.c350d799.png",
@@ -39,6 +43,7 @@
     "static/media/jsFramework.svg": "/static/media/jsFramework.b05ae5b5.svg",
     "static/media/legato_logo.png": "/static/media/legato_logo.4ba886ba.png",
     "static/media/manOnTable.svg": "/static/media/manOnTable.52be3144.svg",
+    "static/media/microsoft_learn.jpg": "/static/media/microsoft_learn.47eeb90d.jpg",
     "static/media/muffito_logo.png": "/static/media/muffito_logo.db6c1c0d.png",
     "static/media/nptel_logo.png": "/static/media/nptel_logo.cd7077f7.png",
     "static/media/portfolio.gif": "/static/media/portfolio.6e7dc5ad.gif",
@@ -52,8 +57,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5795b4e4.js",
-    "static/js/2.29e934aa.chunk.js",
+    "static/js/2.bad18ae2.chunk.js",
     "static/css/main.c7ec043a.chunk.css",
-    "static/js/main.604db305.chunk.js"
+    "static/js/main.4d2c0d16.chunk.js"
   ]
 }

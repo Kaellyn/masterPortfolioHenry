@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef8826f1139694045dbb13aabb70c0ad",
+    "revision": "0c3046673399387edeec85d810f51a2d",
     "url": "/index.html"
   },
   {
-    "revision": "decf3b34b293ee794b26",
+    "revision": "c92de7448751edd35968",
     "url": "/static/css/main.c7ec043a.chunk.css"
   },
   {
-    "revision": "4d9d4f4be1707189ff20",
-    "url": "/static/js/2.29e934aa.chunk.js"
+    "revision": "f802fa2f427cee819d43",
+    "url": "/static/js/2.bad18ae2.chunk.js"
   },
   {
-    "revision": "decf3b34b293ee794b26",
-    "url": "/static/js/main.604db305.chunk.js"
+    "revision": "c92de7448751edd35968",
+    "url": "/static/js/main.4d2c0d16.chunk.js"
   },
   {
     "revision": "306936bdc84aca30f983",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "c90675eb6c4c970c6389749e89cfd02f",
+    "url": "/static/media/EPN_logo_big.c90675eb.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -46,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b5c77a6aed75cdad9489effd0d5ea411",
     "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
+  },
+  {
+    "revision": "159d53dd28cda4918b79bde26b980705",
+    "url": "/static/media/JISIC-2019-banner-tipo-epn2-FINAL.159d53dd.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -188,6 +196,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistant.c24ba791.svg"
   },
   {
+    "revision": "7b6f65871223072b82d107cc8db76663",
+    "url": "/static/media/hackerrank_logo.7b6f6587.png"
+  },
+  {
+    "revision": "a7a843c4a3914b185d3ec7c729446c42",
+    "url": "/static/media/henry_profile.a7a843c4.png"
+  },
+  {
     "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
     "url": "/static/media/ibm_logo.6d325fec.png"
   },
@@ -214,6 +230,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52be31441c8cf8a8a16bd7a228d428bf",
     "url": "/static/media/manOnTable.52be3144.svg"
+  },
+  {
+    "revision": "47eeb90da5b40f4e1516e8ffc85731b9",
+    "url": "/static/media/microsoft_learn.47eeb90d.jpg"
   },
   {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
